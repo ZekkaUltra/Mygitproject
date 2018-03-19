@@ -1,0 +1,1 @@
+Je créée ici un fichier dans le cadre d'une activité sur Openclassrooms afin d'obtenir mon certificat de cours "Gérez votre code avec Git et Github"
